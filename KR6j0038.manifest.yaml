@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6j0038/v1
+canonical_location: https://kanripo.org/bkk/KR6j0038/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂瑜伽三十七尊出生義
+  identifiers:
+    alt_id:
+    - T18n0872
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0872.xml
+    old_id: T18n0872
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 丙
+  label: 丙
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0038_000.yaml, hash: 'sha256:09f3524f37cb58a155f3e12226da69c7ebf730777dadd1952f7d2a85c88ed8e1'}
+  - {seq: 1, filename: KR6j0038_001.yaml, hash: 'sha256:859262481549d0648855d76a3f12b44995537eb47a89239515903248edf55cfc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0038_001.markers.yaml, hash: 'sha256:a21db058b67ff74d976d7a62a0468add2695b9e247fb2a64f0661c11d129d26f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0038_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2059
+  label: 金剛頂瑜伽三十七尊出生義
+  type: juan
+  level: 1
+hash: sha256:43fa35a2915d146b48e2bb8fb71516dc2e1065049cbdfdb4b58fe955de3ce8e4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

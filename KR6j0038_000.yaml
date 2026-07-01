@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0038/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽三十七尊出生義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0872.xml
+    old_id: T18n0872
+hash: sha256:09f3524f37cb58a155f3e12226da69c7ebf730777dadd1952f7d2a85c88ed8e1
