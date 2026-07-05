@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0038_000.yaml, hash: 'sha256:09f3524f37cb58a155f3e12226da69c7ebf730777dadd1952f7d2a85c88ed8e1'}
-  - {seq: 1, filename: KR6j0038_001.yaml, hash: 'sha256:859262481549d0648855d76a3f12b44995537eb47a89239515903248edf55cfc'}
+  - {seq: 1, filename: KR6j0038_001.yaml, hash: 'sha256:1c4f9f79ce0567968a6447703dce6d3560209697a9e48c3a3628bc440ba2423e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0038_001.markers.yaml, hash: 'sha256:a21db058b67ff74d976d7a62a0468add2695b9e247fb2a64f0661c11d129d26f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0038_000.markers.yaml, hash: 'sha256:c5f732ba04e8b481eb3bf799e765a3628f1fd9e1663c78777ed2eb3dafbc2cb2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0038_001.markers.yaml, hash: 'sha256:1d5f9a338895d5332ec0f726190ff9ae34876701b8d1f0a47c30316ff61ff128'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 金剛頂瑜伽三十七尊出生義
   type: juan
   level: 1
-hash: sha256:43fa35a2915d146b48e2bb8fb71516dc2e1065049cbdfdb4b58fe955de3ce8e4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:30864c334f616dc1233e79070ec17601bb8a565306b2e878251901eaee66ab17
